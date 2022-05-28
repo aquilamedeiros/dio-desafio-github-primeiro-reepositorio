@@ -1,0 +1,8 @@
+Download do Git: https://git-scm.com/downloads
+
+Git -> Sistema de controle de versão open-source. Utilizado para a criação
+de um histórico de alterações em código-fonte de projetos de desenvolvimento
+de software
+
+GitHub -> Repositório remoto, criado como um serviço online de hospedagem
+de reporitórios do Git
